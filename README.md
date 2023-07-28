@@ -21,6 +21,13 @@ Visit the website at https://invoicedragon.com
 
 To start using Invoice Dragon, simply visit [Invoice Dragon.com](https://www.invoicedragon.com) . You can begin generating invoices immediately. 
 
+## Benefits of Using Invoice Dragon
+
+* **Save time:** Invoice Dragon can help you save time by automating the invoicing process.
+* **Increase efficiency:** Invoice Dragon can help you improve the efficiency of your invoicing process by providing a variety of customization options.
+* **Improve accuracy:** Invoice Dragon can help you improve the accuracy of your invoicing by providing a variety of validation checks.
+
+
 ### Why did I build this?
 Over the years I've run a couple of businesses where I'd typically have to make invoices and receipts. 
 I've recently found the process of creating and editing invoice templates to be quite cumbersome, particularly when I have to make invoices for a good number of clients. The process of editing and ensuring everything is as I want it to be usually takes up too much time. 
